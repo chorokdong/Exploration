@@ -1,7 +1,7 @@
 # Exploration
 
 |항목|제목|내용|링크|
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |EXP1|Iris의 세 가지 품종, 분류해볼 수 있겠어요?|ML|[GO](https://github.com/chorokdong/Exploration/blob/main/EXP1_lyrics_generator.ipynb)|
 |EXP2|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|ML|[GO](https://github.com/chorokdong/Exploration/blob/main/EXP2_sklearn.ipynb)|
 |EXP3|어제 오른 내 주식, 과연 내일은?|ARIMA|[GO](https://github.com/chorokdong/Exploration/blob/main/EXP3_ARIMA_stock_prediction.ipynb)|
