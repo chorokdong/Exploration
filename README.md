@@ -18,4 +18,4 @@
 |EXP_14|인공지능으로 세상에 없던 새로운 패션 만들기|DCGAN|[GO](https://github.com/chorokdong/Exploration/blob/main/EXP%2014_DCGAN.ipynb)|
 |EXP_15|아이유팬이 좋아할 만한 다른 아티스트 찾기|ALS|[GO](https://github.com/chorokdong/Exploration/blob/main/EXP%2015_recommendation_system.ipynb)|
 |EXP_16|난 스케치를 할 테니 너는 채색을 하거라|CGAN|[GO](https://github.com/chorokdong/Exploration/blob/main/EXP%2016_CGAN.ipynb)|
-|EXP_17|다음에 볼 영화 예측하기| |[GO](https://github.com/chorokdong/Exploration/blob/main/_EXP%2017_movie_prediction%20.ipynb)|
+|EXP_17|다음에 볼 영화 예측하기|NLP|[GO](https://github.com/chorokdong/Exploration/blob/main/_EXP%2017_movie_prediction%20.ipynb)|
